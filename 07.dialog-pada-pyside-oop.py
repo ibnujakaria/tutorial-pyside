@@ -2,7 +2,7 @@ import sys, time
 from PySide import QtGui
 
 """
-Jago Ngoding tutorial PySide berbasa Indonesia
+Jago Ngoding tutorial PySide berbahasa Indonesia
 
 author: Ibnu Jakaria
 """
