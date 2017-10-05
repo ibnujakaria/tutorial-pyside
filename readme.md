@@ -1,6 +1,6 @@
 # Tutorial PySide Bahasa Indonesia
 
-Ini adalah kumpulan *source code* dari [Tutorial PySide di jagongoding.com](https://jagongoding.com/blog?tag=Pyside)
+Ini adalah kumpulan *source code* dari [Tutorial PySide](https://jagongoding.com/blog?tag=Pyside) di [jagongoding.com](https://jagongoding.com)
 
 ## Table of Contents
 1. [Pengenalan PySide](https://jagongoding.com/blog/post/pengenalan-pyside)
