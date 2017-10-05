@@ -12,3 +12,4 @@ Ini adalah kumpulan *source code* dari [Tutorial PySide](https://jagongoding.com
 7. [Menu dan Toolbar](https://jagongoding.com/blog/post/menu-dan-toolbars-pada-pyside)
 8. [Management Layout](https://jagongoding.com/blog/post/management-layout-pada-pyside)
 9. [Pembahasan Dialog Pada PySide](https://jagongoding.com/blog/post/pembahasan-dialog-pada-pyside)
+10. [Event dan Signal pada PySide](https://jagongoding.com/blog/post/	event-dan-signals-pada-pyside)
