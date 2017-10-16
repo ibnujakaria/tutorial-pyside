@@ -5,7 +5,7 @@ from PySide import QtGui
 app = QtGui.QApplication(sys.argv)
 
 window = QtGui.QWidget()
-icon = QtGui.QIcon('smile.png')
+icon = QtGui.QIcon('../smile.png')
 
 button = QtGui.QPushButton('Halo!', window)
 button.resize(button.sizeHint())

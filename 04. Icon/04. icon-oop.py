@@ -12,7 +12,7 @@ class Jendela(QtGui.QWidget):
   def __init__(self):
     super(Jendela, self).__init__()
 
-    self.icon = QtGui.QIcon('smile.png')
+    self.icon = QtGui.QIcon('../smile.png')
     self.siapkanUI()
 
   def siapkanUI(self):
